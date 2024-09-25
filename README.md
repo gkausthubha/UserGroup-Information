@@ -2,7 +2,7 @@
 The User Group Info Script is a Python command-line tool that allows users to interact with a file containing user and group information. It enables listing users, groups, and retrieving specific user details.
 A sample input data is as shown in user_groups.txt
 
-**Features**
+#**Features**
 
 ->List all users
 
@@ -12,7 +12,7 @@ A sample input data is as shown in user_groups.txt
 
 ->Help option for usage guidance
 
-**Usage**
+#**Usage**
 
 Run the script with the following command: python user_group_info.py <option> <argument_file>
 
